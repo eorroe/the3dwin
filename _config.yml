@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              The3dwin
+bio:                'CEO and Founder of Crowder and BarberAssistant'
+description:        "Hi I'm Edwin the creator of Crowder and BarberAssistant on facebook messenger, this is where you can get to know me"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                the3dwin.com
 
 # Jekyll
 permalink:          /:title/
@@ -26,28 +26,28 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   eorroe
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:            #the3dwin
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            the3dwin
+facebook:           the3dwin
+github-url:         eorroe
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          the3dwin
 #lastfm:            username
 #tumblr:            username
-#medium:            '@username'
+#medium:            '@the3dwin'
 #pinterest:         username
 #foursquare:        username
 steam:              username
@@ -60,7 +60,7 @@ steam:              username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
+#hackernews:        eorroe
 
 # Gems
 gems:
