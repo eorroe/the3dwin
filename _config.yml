@@ -4,7 +4,7 @@ bio:                'CEO and Founder of Crowder and BarberAssistant'
 description:        "Hi I'm Edwin the creator of Crowder and BarberAssistant on facebook messenger, this is where you can get to know me"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.jpg'
+logo:               'assets/img/logo.JPG'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
